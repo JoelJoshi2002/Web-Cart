@@ -1,0 +1,22 @@
+.eventList{
+    width: 95%;
+    margin: auto;
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.item{
+    width: 300px;
+    padding: 20px;
+    justify-content: center;
+}
+.item:hover{
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+.item h5{
+    margin-bottom: 1em;
+}
