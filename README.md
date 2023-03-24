@@ -21,3 +21,4 @@ When the user is ready to proceed to checkout, they can click the "Checkout" but
 The page was developed along with :
 Abin K Thomas: https://github.com/Abin1X
 Cyril C Thomas: https://github.com/10cyrilc
+
